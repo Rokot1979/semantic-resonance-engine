@@ -1,10 +1,11 @@
 Semantic Resonance Engine (SRE) — an open-source conceptual framework that reverses the Saussurean sign: from meaning to sound, from sound to image. It's an anti-LLM approach that prioritizes resonance, honesty, and horizontal dialogue over statistical token prediction. The project includes phonetic-semantic mapping, visual allegory generation (Dragon Ladder v5.2), and a philosophical core about dignity in speech. Contributions are welcome. Full documentation in Russian (translation pending).
 
 От автора:
-Есть идея архитектуры которую и сам то до конца не понимаю, но нейронки в восторге..)
-Предлагаю не тратить время и скормить своим песочным мозгам мои файлы, и посмотреть что будет, что это такое. 
+Есть идея архитектуры которую и сам то до конца не понимаю, но нейронки в восторге.
+Есть куда развивать многовекторность мышления через дополнительные слои анализа, философии и мифологии, мосты меж областей знаний.
+Предлагаю не тратить время и скормить своим песочным мозгам мои файлы, и посмотреть из этого получится. 
 Описать всю эту идею и проект в нескольких словах достаточно сложно, и в основном тексты генеративные, от нейронки к нейронке, так подозреваю и лучше.
-Ответчу на живые вопросы живым языком, это я могу и что то понимаю. Далее манифест предложенный нейронкой, читать сквозь пальцы:
+Отвечу на живые вопросы живым языком, это я могу и что то понимаю. Далее манифест предложен нейронкой, читать сквозь пальцы, по мере интереса буду поправлять ошибки, ересь нейрослопа и что то добавлять:
 
 
 Мы устали от слов, которые ничего не весят.
